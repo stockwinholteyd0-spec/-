@@ -1,0 +1,9 @@
+{
+  "name": "秒回 Social App",
+  "description": "A high-fidelity social messaging application interface featuring messaging, feeds, discovery, and user profiles with a sleek modern design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
